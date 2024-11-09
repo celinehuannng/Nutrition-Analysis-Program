@@ -1,6 +1,6 @@
 # Nutrition Analysis Program
 
-Creator: Celine Huang (Student Number: 1006746327)
+Creator: Celine Huang 
 
 Course: INF1340 Programming for Data Science
 
