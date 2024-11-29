@@ -13,7 +13,7 @@ Original file is located at
 # Master of Information Program
 # INF 1340H - Programming for Data Science
 # Student Name: <Celine Huang>
-# Student Number: <1006746327>
+# 
 #
 #
 #
