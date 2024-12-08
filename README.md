@@ -19,7 +19,7 @@ The purpose is to provide assistance in dietary planning and to showcase pattern
 The program features an input function for reading a dataset and output function for writing the results. 
 Additionally, it also includes 8 separate defined functions: largest_value(), smallest_value(), nutrient_ratios(), mode(), median(), mean(), total_amount(), and standard_deviation(), that either process, calculate, or interpret the nutritional data. 
 
-## How to Run the Program
+## How to Run the Program (Google Colab)
 When the program first runs, it will prompt the user to enter the name of the input file, which is FOOD-DATA-GROUP1,2,3,4 or 5. Afterwards, the user will then be prompted to input action commands (+, -, @, *, &, ? , $ , ! ,^, or /") to call a specific function to apply to the dataset. For instance, if the user inputs the plus sign "+", they will be prompted to enter a nutrient category from the dataset and the program will find its largest values and their corresponding foods. Once the user is satisfied with the amount of outputs that they have from the various functions that they called, they can input the carrot sign ("^") in which they will be prompted to enter the name of the output file ("specific_nutrition_info.txt"). The program will continue to run until the user enters a forward slash (/) to end the program. 
 
 ## Sample Input and Output
